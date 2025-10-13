@@ -24,7 +24,7 @@
 
 ## 🧩 Projects
 
-### 📌 [Calorie Tracker App](https://github.com/EduardoJRP/calorie-tracker)  
+### 📌 [NutriTrack App](https://github.com/EduardoJRP/NutriTrack)  
 Full-stack food logging app to track daily meals and calories. Built with **Next.js**, **Prisma**, and **MySQL**.
 
 ### 📌 [To-Do List App](https://github.com/EduardoJRP/todo-list)  
